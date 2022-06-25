@@ -5,6 +5,7 @@ Hardworking Junior Frontend Developer. I have 4+ years of previous experience in
 ## My projects:
 
 **JavaScript**: [Calculator](https://github.com/sadaskeanu/UI_Calculator_JS), [ToDo List](https://github.com/sadaskeanu/UI_ToDo_List_JS)
+>
 **React**: [ToDo List](https://github.com/sadaskeanu/UI_ToDo_List_React), [Pokemon Randomizer](https://github.com/sadaskeanu/Pokemon_Randomizer_React), [Name App](https://github.com/sadaskeanu/UI_NameApp_React)
 
 
