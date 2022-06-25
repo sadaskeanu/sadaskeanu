@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Daria
 
-My projects:
+## My projects:
 
-## JavaScript: [Calculator](https://github.com/sadaskeanu/UI_Calculator_JS)
+**JavaScript**: [Calculator](https://github.com/sadaskeanu/UI_Calculator_JS)
 
 
 
