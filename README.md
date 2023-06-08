@@ -9,6 +9,8 @@ Hardworking and detail-oriented Frontend Developer with 1+ year of experience in
 ☄️ **React**: [ToDo List](https://github.com/sadaskeanu/UI_ToDo_List_React), [Pokemon Randomizer](https://github.com/sadaskeanu/Pokemon_Randomizer_React), [Name App](https://github.com/sadaskeanu/UI_NameApp_React), [Chat GPT](https://github.com/sadaskeanu/chat-gpt)
 
  🤖 **TypeScript**: [Also Pokemon Randomizer, but another:)](https://github.com/sadaskeanu/pokemon-randomizer)
+ 
+ 🪐 **React Native**: [Sailor Moon ToDo List](https://github.com/sadaskeanu/sailor-moon-todo-list-react-native)
 
 
 
