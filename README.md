@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Daria
 
+✨Frontеnd Engineer✨
+
 ## My projects:
 
 ⭐️ **JavaScript**: [Calculator](https://github.com/sadaskeanu/UI_Calculator_JS), [ToDo List](https://github.com/sadaskeanu/UI_ToDo_List_JS)
