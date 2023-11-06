@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Daria
 
-Hardworking and detail-oriented Frontend Developer with 1+ year of experience in development and 4+ years of previous experience in project management and digital. Currently committed to using my skills to support the mission of a company.
-
 ## My projects:
 
 ⭐️ **JavaScript**: [Calculator](https://github.com/sadaskeanu/UI_Calculator_JS), [ToDo List](https://github.com/sadaskeanu/UI_ToDo_List_JS)
